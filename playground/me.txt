@@ -1,0 +1,5 @@
+{{#user}
+Name: Shalu
+Skills: HTML, CSS, JS, React.js, Node.js and MongoDB
+Email: shalusrm181@gmail.com
+{{/user}}
